@@ -1,5 +1,88 @@
+
+
+
+
 body {
-    display: block;
     margin: 8px;
     background-color: #212121;
+    align-content: center;
+    align-self: auto;
+   align-items: center;
+
+}
+#CURYJ-LOGO-FINAL-W {
+    width: 100%;
+    height: auto;
+}
+h1{
+    text-align: center;
+    width: 179px;
+    height: auto;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    margin-right: auto
+    letter-spacing: normal;
+    margin-
+    color: #ffffff;
+}
+#rectangle-1 {
+    min-width: 50%;
+    max-width: 60%;
+    height: auto;
+    border-radius: 4px;
+    background-color: #ffffff;
+    display: block;
+
+}
+/*.rectangle-2 {
+    width: 320px;
+    height: 568px;
+    background-color: #212121;
+}*/
+
+#rectangle-3 {
+    min-width:50%;
+    max-width:60%;
+    height: auto;
+    border-radius: 4px;
+    background-color: #ffffff;
+    display:block;
+}
+
+#login{
+    width: 142px;
+    height: 20.4px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+}
+
+#rectangle-4{
+    width: 200px;
+    height: 60px;
+    border-radius: 6px;
+    background-color: #a9001c;
+    display: block;
+
+}
+#rectangle-5{
+    display:block;
+
+}
+p {
+ color: white;
+}
+
+.container {
+align-cont
+
 }
